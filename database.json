@@ -1,0 +1,178 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "Fluffy Unicorns",
+      "description": "A group for magical beings who love rainbows and cotton candy"
+    },
+    {
+      "id": 2,
+      "name": "Pizza Lovers",
+      "description": "Where pizza enthusiasts unite to discuss the best toppings and crusts"
+    },
+    {
+      "id": 3,
+      "name": "Dance Party Crew",
+      "description": "For those who can't resist the urge to dance like no one's watching"
+    },
+    {
+      "id": 4,
+      "name": "Silly Scientists",
+      "description": "Exploring the wacky side of science with lab experiments gone hilariously wrong"
+    },
+    {
+      "id": 5,
+      "name": "Penguin Fan Club",
+      "description": "Dedicated to the love of penguins and their comical waddles"
+    },
+    {
+      "id": 6,
+      "name": "Bubble Wrap Poppers",
+      "description": "A support group for people addicted to the satisfaction of popping bubble wrap"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bubbles McLaugherson",
+      "userName": "BubbleGiggler",
+      "email": "bubbles@example.com",
+      "bio": "Living life one bubble at a time!",
+      "location": "Bubbleland",
+      "contact info": "Bubble phone: 555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseball Chatterbox",
+      "userName": "CheesyTalksALot",
+      "email": "cheeseball@example.com",
+      "bio": "Spreading cheesy jokes and laughter everywhere",
+      "location": "Cheesetopia",
+      "contact info": "Cheese hotline: 555-5678"
+    },
+    {
+      "id": 3,
+      "name": "Captain Quirkster",
+      "userName": "QuirkyCaptain",
+      "email": "quirk@example.com",
+      "bio": "Navigating the seas of absurdity with a ship full of quirks",
+      "location": "Quirkville",
+      "contact info": "Quirk beacon: 555-9101"
+    },
+    {
+      "id": 4,
+      "name": "Muffin Muncher",
+      "userName": "MuffinMania",
+      "email": "muffin@example.com",
+      "bio": "On a quest to try every muffin flavor in the universe",
+      "location": "MuffinTopia",
+      "contact info": "Muffin hotline: 555-1122"
+    },
+    {
+      "id": 5,
+      "name": "Dizzy Doodlebug",
+      "userName": "DoodleDizzy",
+      "email": "dizzy@example.com",
+      "bio": "Creating doodles that spin heads and twist reality",
+      "location": "Doodleland",
+      "contact info": "Doodle hotline: 555-3344"
+    },
+    {
+      "id": 6,
+      "name": "Jellybean Jester",
+      "userName": "JollyJelly",
+      "email": "jellybean@example.com",
+      "bio": "Bringing joy with a pocketful of jellybeans and silly pranks",
+      "location": "Jellyville",
+      "contact info": "Jelly hotline: 555-5566"
+    }
+  ],
+  "userGroups": [
+    {
+      "id": 1,
+      "groupId": 1,
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "groupId": 3,
+      "userId": 4
+    },
+    {
+      "id": 3,
+      "groupId": 5,
+      "userId": 6
+    },
+    {
+      "id": 4,
+      "groupId": 2,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "groupId": 4,
+      "userId": 3
+    },
+    {
+      "id": 6,
+      "groupId": 6,
+      "userId": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Great Unicorn Bubble Bath",
+      "body": "Join us for a bubbly adventure in the mystical unicorn bubble bath!",
+      "date": "2024-03-13",
+      "encrypted": false,
+      "userId": 1,
+      "groupId": 1
+    },
+    {
+      "id": 2,
+      "title": "Pizza Toppings Extravaganza",
+      "body": "Discussing the weirdest and wackiest pizza toppings known to mankind",
+      "date": "2024-03-14",
+      "encrypted": true,
+      "userId": 2,
+      "groupId": 2
+    },
+    {
+      "id": 3,
+      "title": "Dance-off Madness",
+      "body": "Prepare for a dance-off competition with funky moves and silly routines",
+      "date": "2024-03-15",
+      "encrypted": false,
+      "userId": 3,
+      "groupId": 3
+    },
+    {
+      "id": 4,
+      "title": "Quirky Science Experiments",
+      "body": "Unleashing the power of absurdity in the name of science!",
+      "date": "2024-03-16",
+      "encrypted": true,
+      "userId": 4,
+      "groupId": 4
+    },
+    {
+      "id": 5,
+      "title": "Penguin Parade Party",
+      "body": "Marching to the beat of penguin drums in a comical parade celebration",
+      "date": "2024-03-17",
+      "encrypted": false,
+      "userId": 5,
+      "groupId": 5
+    },
+    {
+      "id": 6,
+      "title": "Bubble Wrap Bonanza",
+      "body": "Pop, pop, pop! Let's see who can pop the most bubble wrap in 60 seconds",
+      "date": "2024-03-18",
+      "encrypted": true,
+      "userId": 6,
+      "groupId": 6
+    }
+  ]
+}
