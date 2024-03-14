@@ -123,9 +123,9 @@
     {
       "id": 1,
       "title": "The Great Unicorn Bubble Bath",
-      "body": "Join us for a bubbly adventure in the mystical unicorn bubble bath!",
+      "body": "Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!Join us for a bubbly adventure in the mystical unicorn bubble bath!",
       "date": "2024-03-13",
-      "encrypted": false,
+      "encrypted": "false",
       "userId": 1,
       "groupId": 1
     },
@@ -134,7 +134,7 @@
       "title": "Pizza Toppings Extravaganza",
       "body": "Discussing the weirdest and wackiest pizza toppings known to mankind",
       "date": "2024-03-14",
-      "encrypted": true,
+      "encrypted": "true",
       "userId": 2,
       "groupId": 2
     },
@@ -143,7 +143,7 @@
       "title": "Dance-off Madness",
       "body": "Prepare for a dance-off competition with funky moves and silly routines",
       "date": "2024-03-15",
-      "encrypted": false,
+      "encrypted": "false",
       "userId": 3,
       "groupId": 3
     },
@@ -152,7 +152,7 @@
       "title": "Quirky Science Experiments",
       "body": "Unleashing the power of absurdity in the name of science!",
       "date": "2024-03-16",
-      "encrypted": true,
+      "encrypted": "true",
       "userId": 4,
       "groupId": 4
     },
@@ -161,7 +161,7 @@
       "title": "Penguin Parade Party",
       "body": "Marching to the beat of penguin drums in a comical parade celebration",
       "date": "2024-03-17",
-      "encrypted": false,
+      "encrypted": "false",
       "userId": 5,
       "groupId": 5
     },
@@ -170,7 +170,7 @@
       "title": "Bubble Wrap Bonanza",
       "body": "Pop, pop, pop! Let's see who can pop the most bubble wrap in 60 seconds",
       "date": "2024-03-18",
-      "encrypted": true,
+      "encrypted": "true",
       "userId": 6,
       "groupId": 6
     }
