@@ -29,68 +29,154 @@
       "id": 6,
       "name": "Bubble Wrap Poppers",
       "description": "A support group for people addicted to the satisfaction of popping bubble wrap"
+    },
+    {
+      "id": 7,
+      "name": "Nature Enthusiasts",
+      "description": "Passionate about exploring and preserving the wonders of the natural world"
+    },
+    {
+      "id": 8,
+      "name": "Music Lovers",
+      "description": "Devoted to the appreciation and discussion of all genres of music"
+    },
+    {
+      "id": 9,
+      "name": "Art Aficionados",
+      "description": "Celebrating creativity and expression through various forms of art"
+    },
+    {
+      "id": 10,
+      "name": "Fashionistas",
+      "description": "A community of style enthusiasts embracing trends and individuality"
+    },
+    {
+      "id": 11,
+      "name": "Fantasy Fans",
+      "description": "Immersed in the realms of fantasy literature, films, and games"
+    },
+    {
+      "id": 12,
+      "name": "Film Buffs",
+      "description": "Passionate about cinema, from classic masterpieces to modern blockbusters"
     }
   ],
+
   "users": [
     {
       "id": 1,
       "name": "Bubbles McLaugherson",
-      "userName": "BubbleGiggler",
+      "username": "BubbleGiggler",
       "email": "bubbles@example.com",
       "bio": "Living life one bubble at a time!",
       "location": "Bubbleland",
-      "contact info": "Bubble phone: 555-1234"
+      "contact": "Bubble phone: 555-1234"
     },
     {
       "id": 2,
       "name": "Cheeseball Chatterbox",
-      "userName": "CheesyTalksALot",
+      "username": "CheesyTalksALot",
       "email": "cheeseball@example.com",
       "bio": "Spreading cheesy jokes and laughter everywhere",
       "location": "Cheesetopia",
-      "contact info": "Cheese hotline: 555-5678"
+      "contact": "Cheese hotline: 555-5678"
     },
     {
       "id": 3,
       "name": "Captain Quirkster",
-      "userName": "QuirkyCaptain",
+      "username": "QuirkyCaptain",
       "email": "quirk@example.com",
       "bio": "Navigating the seas of absurdity with a ship full of quirks",
       "location": "Quirkville",
-      "contact info": "Quirk beacon: 555-9101"
+      "contact": "Quirk beacon: 555-9101"
     },
     {
       "id": 4,
       "name": "Muffin Muncher",
-      "userName": "MuffinMania",
+      "username": "MuffinMania",
       "email": "muffin@example.com",
       "bio": "On a quest to try every muffin flavor in the universe",
       "location": "MuffinTopia",
-      "contact info": "Muffin hotline: 555-1122"
+      "contact": "Muffin hotline: 555-1122"
     },
     {
       "id": 5,
       "name": "Dizzy Doodlebug",
-      "userName": "DoodleDizzy",
+      "username": "DoodleDizzy",
       "email": "dizzy@example.com",
       "bio": "Creating doodles that spin heads and twist reality",
       "location": "Doodleland",
-      "contact info": "Doodle hotline: 555-3344"
+      "contact": "Doodle hotline: 555-3344"
     },
     {
       "id": 6,
       "name": "Jellybean Jester",
-      "userName": "JollyJelly",
+      "username": "JollyJelly",
       "email": "jellybean@example.com",
       "bio": "Bringing joy with a pocketful of jellybeans and silly pranks",
       "location": "Jellyville",
-      "contact info": "Jelly hotline: 555-5566"
+      "contact": "Jelly hotline: 555-5566"
+    },
+    {
+      "id": 7,
+      "name": "Sunny Sunshine",
+      "username": "SunnySideUp",
+      "email": "sunny@example.com",
+      "bio": "Spreading warmth and happiness wherever I go",
+      "location": "Sunshine Valley",
+      "contact": "Sunshine hotline: 555-7777"
+    },
+    {
+      "id": 8,
+      "name": "Rocky Roadster",
+      "username": "RockyRocks",
+      "email": "rocky@example.com",
+      "bio": "Navigating life's twists and turns with a sense of adventure",
+      "location": "Adventureland",
+      "contact": "Adventure hotline: 555-8888"
+    },
+    {
+      "id": 9,
+      "name": "Sapphire Sparkle",
+      "username": "SparklingSapphire",
+      "email": "sapphire@example.com",
+      "bio": "Shining bright like a precious gem in the night sky",
+      "location": "Gemstone City",
+      "contact": "Sapphire hotline: 555-9999"
+    },
+    {
+      "id": 10,
+      "name": "Ginger Snap",
+      "username": "GingerGiggles",
+      "email": "ginger@example.com",
+      "bio": "Bringing a dash of spice and a sprinkle of laughter to every moment",
+      "location": "Spiceland",
+      "contact": "Ginger hotline: 555-0000"
+    },
+    {
+      "id": 11,
+      "name": "Midnight Moonlight",
+      "username": "MoonlightMagic",
+      "email": "moonlight@example.com",
+      "bio": "Embracing the magic of the night and the mysteries it holds",
+      "location": "Moonlit Grove",
+      "contact": "Moonlight hotline: 555-1111"
+    },
+    {
+      "id": 12,
+      "name": "Whispering Willow",
+      "username": "WhisperWillow",
+      "email": "willow@example.com",
+      "bio": "Listening to the secrets of the wind and the wisdom of the trees",
+      "location": "Willow Woods",
+      "contact": "Willow hotline: 555-2222"
     }
   ],
+
   "userGroups": [
     {
       "id": 1,
-      "groupId": 1,
+      "groupId": 2,
       "userId": 2
     },
     {
@@ -105,7 +191,7 @@
     },
     {
       "id": 4,
-      "groupId": 2,
+      "groupId": 1,
       "userId": 1
     },
     {
@@ -117,6 +203,36 @@
       "id": 6,
       "groupId": 6,
       "userId": 5
+    },
+    {
+      "id": 7,
+      "groupId": 7,
+      "userId": 7
+    },
+    {
+      "id": 8,
+      "groupId": 12,
+      "userId": 8
+    },
+    {
+      "id": 9,
+      "groupId": 12,
+      "userId": 9
+    },
+    {
+      "id": 10,
+      "groupId": 10,
+      "userId": 10
+    },
+    {
+      "id": 11,
+      "groupId": 11,
+      "userId": 11
+    },
+    {
+      "id": 12,
+      "groupId": 7,
+      "userId": 12
     }
   ],
   "posts": [
@@ -173,6 +289,170 @@
       "encrypted": "true",
       "userId": 6,
       "groupId": 6
+    },
+    {
+      "id": 7,
+      "title": "Enchanted Forest Picnic",
+      "body": "Escape to the mystical depths of the enchanted forest for a magical picnic experience! Bask in the dappled sunlight filtering through the canopy as you feast on delectable treats amidst nature's wonders. Look out for playful woodland creatures and let the tranquility of the forest rejuvenate your spirit.",
+      "date": "2024-03-19",
+      "encrypted": "false",
+      "userId": 7,
+      "groupId": 7
+    },
+    {
+      "id": 8,
+      "title": "Galactic Game Night",
+      "body": "Prepare for an out-of-this-world gaming extravaganza as we journey through the cosmos of board games, card games, and tabletop adventures! Join fellow space explorers in a quest for fun and camaraderie among the stars. May the dice roll ever in your favor!",
+      "date": "2024-03-20",
+      "encrypted": "true",
+      "userId": 8,
+      "groupId": 8
+    },
+    {
+      "id": 9,
+      "title": "Safari Scavenger Hunt",
+      "body": "Embark on a thrilling safari adventure filled with clues, challenges, and wild encounters! Traverse the untamed wilderness in search of hidden treasures and elusive creatures. From roaring lions to majestic elephants, every discovery brings you one step closer to safari glory!",
+      "date": "2024-03-21",
+      "encrypted": "false",
+      "userId": 9,
+      "groupId": 9
+    },
+    {
+      "id": 10,
+      "title": "Underwater Exploration Expedition",
+      "body": "Dive into the depths of the ocean for an extraordinary expedition to uncover the mysteries of the underwater world! Swim alongside colorful coral reefs, marvel at exotic sea creatures, and discover hidden shipwrecks teeming with history. Let the ocean's wonders captivate your imagination!",
+      "date": "2024-03-22",
+      "encrypted": "true",
+      "userId": 10,
+      "groupId": 10
+    },
+    {
+      "id": 11,
+      "title": "Fantasy Film Marathon",
+      "body": "Immerse yourself in a cinematic journey through fantastical realms and epic adventures! From dragons to wizards, embark on a movie marathon filled with magic, wonder, and larger-than-life tales. Grab your popcorn and settle in for an enchanting cinematic experience!",
+      "date": "2024-03-23",
+      "encrypted": "false",
+      "userId": 11,
+      "groupId": 11
+    },
+    {
+      "id": 12,
+      "title": "DIY Craft Bonanza",
+      "body": "Unleash your creativity in a DIY crafting extravaganza where the only limit is your imagination! From upcycled masterpieces to handmade treasures, channel your inner artisan and craft your way to unique creations. Let the glue guns heat up and the creativity flow!",
+      "date": "2024-03-24",
+      "encrypted": "true",
+      "userId": 12,
+      "groupId": 12
+    },
+
+    {
+      "id": 13,
+      "title": "Mystical Moonlight Masquerade",
+      "body": "Step into a world of mystery and enchantment at the mystical moonlight masquerade! Don your most dazzling mask and join the dance beneath the silver glow of the moon. Lose yourself in the magic of the night as you revel in elegance and intrigue.",
+      "date": "2024-03-25",
+      "encrypted": "false",
+      "userId": 1,
+      "groupId": 1
+    },
+    {
+      "id": 14,
+      "title": "Gourmet Chocolate Tasting",
+      "body": "Indulge your senses in a decadent journey through the world of gourmet chocolates! From velvety truffles to exotic cacao blends, savor the rich flavors and textures of artisanal chocolate creations. Let each bite transport you to a realm of pure cocoa bliss.",
+      "date": "2024-03-26",
+      "encrypted": "true",
+      "userId": 2,
+      "groupId": 2
+    },
+    {
+      "id": 15,
+      "title": "Starlit Stargazing Soiree",
+      "body": "Gaze upon the twinkling tapestry of stars as we embark on a celestial stargazing soiree! Wrapped in blankets beneath the vast expanse of the night sky, lose yourself in the wonders of the cosmos. From shooting stars to distant galaxies, let the universe unfold before your eyes.",
+      "date": "2024-03-27",
+      "encrypted": "false",
+      "userId": 3,
+      "groupId": 3
+    },
+    {
+      "id": 16,
+      "title": "Adventure Photography Expedition",
+      "body": "Capture the spirit of adventure in a thrilling photography expedition to the world's most breathtaking landscapes! From towering mountains to cascading waterfalls, seize the moment and immortalize nature's wonders through your lens. Let your creativity soar as you frame the beauty of our planet.",
+      "date": "2024-03-28",
+      "encrypted": "true",
+      "userId": 4,
+      "groupId": 4
+    },
+    {
+      "id": 17,
+      "title": "Culinary Fusion Fiesta",
+      "body": "Embark on a culinary adventure as we celebrate the art of fusion cuisine from around the world! From spicy Thai tacos to sushi burritos, tantalize your taste buds with bold flavors and innovative combinations. Join us on a gastronomic journey where every bite is a symphony of taste.",
+      "date": "2024-03-29",
+      "encrypted": "false",
+      "userId": 5,
+      "groupId": 5
+    },
+    {
+      "id": 18,
+      "title": "Board Game Battle Royale",
+      "body": "Prepare for an epic clash of strategy and skill in the ultimate board game battle royale! Command your armies, outwit your opponents, and claim victory on the tabletop battlefield. Whether you're a cunning strategist or a master tactician, the glory of victory awaits!",
+      "date": "2024-03-30",
+      "encrypted": "true",
+      "userId": 6,
+      "groupId": 6
+    },
+
+    {
+      "id": 19,
+      "title": "Mystical Forest Meditation",
+      "body": "Find inner peace and harmony amidst the whispers of the ancient trees in a mystical forest meditation. Allow nature's serenity to envelop you as you breathe in the fragrant scents of the forest and listen to the soothing melodies of birdsong. Let go of stress and embrace tranquility in this sacred sanctuary.",
+      "date": "2024-03-31",
+      "encrypted": "false",
+      "userId": 7,
+      "groupId": 7
+    },
+    {
+      "id": 20,
+      "title": "Vintage Vinyl Vinylthon",
+      "body": "Step back in time and groove to the rhythm of the classics at the vintage vinyl vinylthon! Dust off your old records and spin the hits of yesteryear as we celebrate the timeless allure of analog music. From rock 'n' roll to soul, let the crackle of vinyl ignite your passion for retro tunes.",
+      "date": "2024-04-01",
+      "encrypted": "true",
+      "userId": 8,
+      "groupId": 8
+    },
+    {
+      "id": 21,
+      "title": "Artistic Expression Extravaganza",
+      "body": "Unleash your creativity in an explosion of artistic expression! From vibrant paintings to intricate sculptures, let your imagination run wild as you explore a myriad of mediums and techniques. Whether you're a seasoned artist or a budding creator, there's no limit to the wonders you can bring to life.",
+      "date": "2024-04-02",
+      "encrypted": "false",
+      "userId": 9,
+      "groupId": 9
+    },
+    {
+      "id": 22,
+      "title": "Eco-Friendly Fashion Show",
+      "body": "Strut your stuff on the runway in an eco-friendly fashion show celebrating sustainable style! From upcycled couture to organic fabrics, showcase the latest trends in environmentally conscious clothing. Let fashion be a force for positive change as we pave the way towards a greener, more stylish future.",
+      "date": "2024-04-03",
+      "encrypted": "true",
+      "userId": 10,
+      "groupId": 10
+    },
+    {
+      "id": 23,
+      "title": "Mythical Creature Carnival",
+      "body": "Step right up and behold the wonders of the mythical creature carnival! From majestic unicorns to fiery dragons, marvel at the magic and mystery of legendary beasts brought to life. Join us for a fantastical journey where imagination knows no bounds.",
+      "date": "2024-04-04",
+      "encrypted": "false",
+      "userId": 11,
+      "groupId": 11
+    },
+    {
+      "id": 24,
+      "title": "Epic Sci-Fi Movie Marathon",
+      "body": "Buckle up for an intergalactic adventure through the cosmos of science fiction cinema! From dystopian futures to alien invasions, immerse yourself in a movie marathon filled with thrills, chills, and futuristic wonders. Join fellow sci-fi enthusiasts as we explore the final frontier of storytelling.",
+      "date": "2024-04-05",
+      "encrypted": "true",
+      "userId": 12,
+      "groupId": 12
     }
   ]
 }
