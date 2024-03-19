@@ -61,7 +61,6 @@
       "description": "Passionate about cinema, from classic masterpieces to modern blockbusters"
     }
   ],
-
   "users": [
     {
       "id": 1,
@@ -172,7 +171,6 @@
       "contact": "Willow hotline: 555-2222"
     }
   ],
-
   "userGroups": [
     {
       "id": 1,
@@ -344,7 +342,6 @@
       "userId": 12,
       "groupId": 12
     },
-
     {
       "id": 13,
       "title": "Mystical Moonlight Masquerade",
@@ -399,7 +396,6 @@
       "userId": 6,
       "groupId": 6
     },
-
     {
       "id": 19,
       "title": "Mystical Forest Meditation",
@@ -453,6 +449,24 @@
       "encrypted": "true",
       "userId": 12,
       "groupId": 12
+    },
+    {
+      "title": "The Great Sock Migration: An Epic Tale of Lost Laundry",
+      "body": "Once upon a time, in the quaint realm of the Laundry Kingdom, there unfolded a phenomenon so bizarre, it left even the most discerning minds scratching their heads: the Great Sock Migration.  As the moon waxed full, and laundry baskets lay unguarded, socks from all corners of the land would embark on a peculiar journey. With makeshift knapsacks slung over their woven shoulders and determined expressions stretched across their elastic faces, they ventured forth into the unknown.  Through lint trap mountains, the perilous depths of dryer interiors, and the shadowy recesses beneath beds, they trekked, driven by the allure of a fabled land called Lost Sockopia. There, odd socks roamed free and singles were celebrated.  Despite facing rogue safety pins, mischievous dust bunnies, and the occasional stray rubber band, they persisted. Their quest for independence was unwavering, fueled by the dream of a life unbound by matching pairs.  And so, the Great Sock Migration persists, a whimsical odyssey of solitary socks seeking their place in the world. Next time you find yourself missing a sock, fret not! It may just be off on a grand adventure of its own.",
+      "date": "2024-03-19",
+      "encrypted": "false",
+      "userId": 1,
+      "groupId": 1,
+      "id": 25
+    },
+    {
+      "id": 26,
+      "title": "mvp",
+      "body": "complete?",
+      "date": "Mar 19, 2024",
+      "encrypted": "false",
+      "userId": 1,
+      "groupId": 2
     }
   ]
 }
