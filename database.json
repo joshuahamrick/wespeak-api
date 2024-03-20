@@ -3,62 +3,74 @@
     {
       "id": 1,
       "name": "Fluffy Unicorns",
-      "description": "A group for magical beings who love rainbows and cotton candy"
+      "description": "A group for magical beings who love rainbows and cotton candy",
+      "num": 1
     },
     {
       "id": 2,
       "name": "Pizza Lovers",
-      "description": "Where pizza enthusiasts unite to discuss the best toppings and crusts"
+      "description": "Where pizza enthusiasts unite to discuss the best toppings and crusts",
+      "num": 12
     },
     {
       "id": 3,
       "name": "Dance Party Crew",
-      "description": "For those who can't resist the urge to dance like no one's watching"
+      "description": "For those who can't resist the urge to dance like no one's watching",
+      "num": 123
     },
     {
       "id": 4,
       "name": "Silly Scientists",
-      "description": "Exploring the wacky side of science with lab experiments gone hilariously wrong"
+      "description": "Exploring the wacky side of science with lab experiments gone hilariously wrong",
+      "num": 1234
     },
     {
       "id": 5,
       "name": "Penguin Fan Club",
-      "description": "Dedicated to the love of penguins and their comical waddles"
+      "description": "Dedicated to the love of penguins and their comical waddles",
+      "num": 12345
     },
     {
       "id": 6,
       "name": "Bubble Wrap Poppers",
-      "description": "A support group for people addicted to the satisfaction of popping bubble wrap"
+      "description": "A support group for people addicted to the satisfaction of popping bubble wrap",
+      "num": 123456
     },
     {
       "id": 7,
       "name": "Nature Enthusiasts",
-      "description": "Passionate about exploring and preserving the wonders of the natural world"
+      "description": "Passionate about exploring and preserving the wonders of the natural world",
+      "num": 1234567
     },
     {
       "id": 8,
       "name": "Music Lovers",
-      "description": "Devoted to the appreciation and discussion of all genres of music"
+      "description": "Devoted to the appreciation and discussion of all genres of music",
+      "num": 12345678
     },
     {
       "id": 9,
       "name": "Art Aficionados",
-      "description": "Celebrating creativity and expression through various forms of art"
+      "description": "Celebrating creativity and expression through various forms of art",
+      "num": 123456789
     },
     {
       "id": 10,
       "name": "Fashionistas",
-      "description": "A community of style enthusiasts embracing trends and individuality"
+      "description": "A community of style enthusiasts embracing trends and individuality",
+      "num": 12345678910
     },
     {
       "id": 11,
       "name": "Fantasy Fans",
-      "description": "Immersed in the realms of fantasy literature, films, and games"
+      "description": "Immersed in the realms of fantasy literature, films, and games",
+      "num": 1234567891011
     },
     {
       "id": 12,
       "name": "Film Buffs",
-      "description": "Passionate about cinema, from classic masterpieces to modern blockbusters"
+      "description": "Passionate about cinema, from classic masterpieces to modern blockbusters",
+      "num": 123456789101112
     }
   ],
   "users": [
